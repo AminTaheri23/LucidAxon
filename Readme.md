@@ -19,8 +19,8 @@ The goal is to use keywords for each topic to assign and find the relevant topic
 
 ## Files
 
-### `lucidAxon.ipynb`
-For more information, refer to the [LucidAxon Documentation](./LucidAxon_Documentation.pdf).
+### `esg.ipynb`
+For more information, refer to the [ESG Documentation](./esg.ipynb).
 
 This Jupyter Notebook contains the following sections:
 
@@ -48,7 +48,7 @@ This PDF document explains the possible solutions for retrieving context from ke
 
 2. **Run the Jupyter Notebook**:
     ```sh
-    jupyter notebook lucidAxon.ipynb
+    jupyter notebook esg.ipynb
     ```
 
 3. **Follow the Steps in the Notebook**:
