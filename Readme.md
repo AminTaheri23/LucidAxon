@@ -42,8 +42,8 @@ This PDF document explains the possible solutions for retrieving context from ke
 
 1. **Clone the Repository**:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/AminTaheri23/ESG-Analysis.git
+    cd ESG-Analysis
     ```
 
 2. **Run the Jupyter Notebook**:
